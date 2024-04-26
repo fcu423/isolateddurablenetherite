@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsolatedDurableEntityNetherite", "IsolatedDurableEntityNetherite\IsolatedDurableEntityNetherite.csproj", "{756F8C95-862F-418F-B344-7718E7A6BAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756F8C95-862F-418F-B344-7718E7A6BAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756F8C95-862F-418F-B344-7718E7A6BAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756F8C95-862F-418F-B344-7718E7A6BAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756F8C95-862F-418F-B344-7718E7A6BAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE048518-8A0A-4BEF-99DD-4EFACF3B347E}
+	EndGlobalSection
+EndGlobal
