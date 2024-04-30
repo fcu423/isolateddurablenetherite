@@ -176,7 +176,7 @@
               "RelativeDocumentMoniker": "IsolatedDurableEntityNetherite\\Triggers.cs",
               "ToolTip": "C:\\dev\\study\\isolateddurablenetherite\\IsolatedDurableEntityNetherite\\IsolatedDurableEntityNetherite\\Triggers.cs",
               "RelativeToolTip": "IsolatedDurableEntityNetherite\\Triggers.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAABBwAoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T19:01:34.755Z",
               "EditorCaption": ""
@@ -204,7 +204,8 @@
               "RelativeToolTip": "IsolatedDurableEntityNetherite\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T02:33:41.601Z"
+              "WhenOpened": "2024-04-26T02:33:41.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -216,7 +217,8 @@
               "RelativeToolTip": "IsolatedDurableEntityNetherite\\IsolatedDurableEntityNetherite.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-26T02:31:57.828Z"
+              "WhenOpened": "2024-04-26T02:31:57.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -226,7 +228,7 @@
               "RelativeDocumentMoniker": "IsolatedDurableEntityNetherite\\local.settings.json",
               "ToolTip": "C:\\dev\\study\\isolateddurablenetherite\\IsolatedDurableEntityNetherite\\IsolatedDurableEntityNetherite\\local.settings.json",
               "RelativeToolTip": "IsolatedDurableEntityNetherite\\local.settings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-26T02:31:46.863Z",
               "EditorCaption": ""
@@ -252,7 +254,7 @@
               "RelativeDocumentMoniker": "IsolatedDurableEntityNetherite\\Function1.cs",
               "ToolTip": "C:\\dev\\study\\isolateddurablenetherite\\IsolatedDurableEntityNetherite\\IsolatedDurableEntityNetherite\\Function1.cs",
               "RelativeToolTip": "IsolatedDurableEntityNetherite\\Function1.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAABbAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAABBwCUAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T02:31:35.898Z",
               "EditorCaption": ""
